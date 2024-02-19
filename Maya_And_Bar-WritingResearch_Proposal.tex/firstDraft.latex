@@ -1,0 +1,32 @@
+\documentclass{article}
+
+\title{Research Proposal}
+\author{Bar Cohen}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+% Add your introduction here
+
+\section{Research Questions}
+% Add your research questions here
+
+\section{Methodology}
+% Add your methodology here
+
+\section{Expected Outcomes}
+% Add your expected outcomes here
+
+\section{Timeline}
+% Add your research timeline here
+
+\section{Budget}
+% Add your research budget here
+
+\section{Conclusion}
+% Add your conclusion here
+
+\end{document}
